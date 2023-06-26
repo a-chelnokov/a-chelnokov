@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @akrmskoy
-- 👀 I’m interested in design & programming.
+- 👋 Hi, I’m @a-chelnokov
+- 👀 I’m interested in statistical applications to economics and legal studies.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on something.
 - 📫 How to reach me chelnokovart@icloud.com
