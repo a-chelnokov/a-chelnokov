@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-chelnokov
-- 👀 I’m interested in statistical applications to economics and legal studies.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in economics, statistics, and legal studies.
+- 🌱 Former PR Analyst at Condé Nast Intl. and LVMH Group.
 - 💞️ I’m looking to collaborate on something.
 - 📫 How to reach me chelnokovart@icloud.com
 
