@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @a-chelnokov
-- 👀 I’m interested in economics, statistics, and legal studies.
-- 🌱 Former PR Analyst at Condé Nast Intl. and LVMH Group.
-- 💞️ I’m looking to collaborate on something.
-- 📫 How to reach me chelnokovart@icloud.com
+Education: HSE Moscow, Economics and Econometrics (Major) + Bioinformatics (Minor).
+Interests: Economics, Statistics, Social Informatics + Law / Bioinformatics.
 
-<!---
-akrmskoy/akrmskoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Former PR Analytics Advisor at Condé Nast Russia (Jun "20 - Oct "21) -> International (Jun "22 -> Jun "23).
+
+E-mail: chelnokovart@icloud.com
